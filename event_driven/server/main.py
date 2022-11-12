@@ -18,7 +18,6 @@ if not isExist:
 source_path = "../source/*"
 destination_path = "../destination"
 tmp_dir = "./tmp"
-z = "../destination.zip"
 postfix = [1, 2, 3]
 
 while True:
